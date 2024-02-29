@@ -1,18 +1,12 @@
 module.exports = {
-  env: {
-    browser: true,
-    es6: true
-  },
-  extends: [
-    "eslint:recommended",
-    "plugin:@typescript-eslint/recommended",
-    "prettier"
-  ],
-  parser: "@typescript-eslint/parser",
+  parser: '@typescript-eslint/parser',
+  plugins: ['@typescript-eslint'],
+  extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended'],
   parserOptions: {
-    sourceType: "module",
-    project: "./tsconfig.json"
+    ecmaVersion: 2018,
+    sourceType: 'module',
   },
-  root: true,
-  rules: {}
+  rules: {
+    // 任意のルールを追加または変更
+  },
 };
