@@ -25,3 +25,9 @@
 // isUserStudentIn2("ABC")
 // const sum = sumPrice(1,2,3,4,5)
 // console.log(sum)
+
+// 05.オブジェクトの型定義
+import typeAliasSample from "./object/alias";
+import objectSample from "./object/object";
+objectSample()
+typeAliasSample()
