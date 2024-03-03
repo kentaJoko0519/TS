@@ -33,7 +33,13 @@
 // typeAliasSample()
 
 // 06.配列とダブルの型定義
-import tupleSamplel from "./Array/tuple";
-import arraySample from "./Array/array";
-arraySample()
-tupleSamplel()
+// import tupleSamplel from "./Array/tuple";
+// import arraySample from "./Array/array";
+// arraySample()
+// tupleSamplel()
+
+// 07.ジェネリクス型とポリモーフィズム
+import genericsAdvancedSample from "./generics/advanced";
+import genericsSample from "./generics/basic";
+genericsSample()
+genericsAdvancedSample()
