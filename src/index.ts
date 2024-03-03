@@ -39,7 +39,8 @@
 // tupleSamplel()
 
 // 07.ジェネリクス型とポリモーフィズム
-import genericsAdvancedSample from "./generics/advanced";
-import genericsSample from "./generics/basic";
-genericsSample()
-genericsAdvancedSample()
+// import genericsAdvancedSample from "./generics/advanced";
+// import genericsSample from "./generics/basic";
+// genericsSample()
+// genericsAdvancedSample()
+
