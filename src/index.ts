@@ -27,7 +27,13 @@
 // console.log(sum)
 
 // 05.オブジェクトの型定義
-import typeAliasSample from "./object/alias";
-import objectSample from "./object/object";
-objectSample()
-typeAliasSample()
+// import typeAliasSample from "./object/alias";
+// import objectSample from "./object/object";
+// objectSample()
+// typeAliasSample()
+
+// 06.配列とダブルの型定義
+import tupleSamplel from "./Array/tuple";
+import arraySample from "./Array/array";
+arraySample()
+tupleSamplel()
